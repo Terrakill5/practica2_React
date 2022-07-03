@@ -11,6 +11,9 @@ module.exports = {
           './public/index.html'],
   theme: {
     extend: {},
+    fontFamily: {
+      'sans': 'Roboto,sans-serif',
+    },
     colors: {
       'verde':'#00471b',
       'azul':'#002ead',
